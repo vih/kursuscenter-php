@@ -205,6 +205,7 @@ class VIH_Kursuscenter_Document extends k_Document
     public $description;
     public $keywords;
     public $style;
+    public $meta;
 }
 
 $factory = new VIH_Kursuscenter_Factory();
