@@ -8,15 +8,16 @@ Installation
 
 Elevforeningen is currently served up by [Intraface](http://intraface.dk). To really check the page on you own server, you need the credentials for their site on intraface.
 
-If you would like to install dependencies, you can do the following:
+If you like to do a local installation, it best way right now is to do the following:
 
-    php makepackage.php make
+    pear channel-discover pear.phing.info
+    pear install phing/phing
     
-This will create a package.xml to use for the pear installer. From the directory where the package.xml was created, do the following:
+After installing phing, you should be able to just run:
 
-    pear package
+    phing make
     
-Now a pear installable package has been created:
+That will create a pear package, which will take care of installing all the dependencies when installing it.
 
     pear install VIH_Kursuscenter-x.x.x.tgz
     
