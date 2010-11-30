@@ -1,4 +1,4 @@
-kursuscenter.vih.dk
+[kursuscenter.vih.dk](http://kursuscenter.vih.dk/)
 ==
 
 PHP source code for [Vejle Idrætshøjskole's kursuscenter](http://kursuscenter.vih.dk)
@@ -6,7 +6,7 @@ PHP source code for [Vejle Idrætshøjskole's kursuscenter](http://kursuscenter.vi
 Installation
 --
 
-Elevforeningen is currently served up by [Intraface](http://intraface.dk). To really check the page on you own server, you need the credentials for their site on intraface.
+The site is currently served by [Intraface](http://intraface.dk) with [konstrukt.dk](http://konstrukt.dk) as the framework. To really check the page on you own server, you need the credentials for the site on intraface.
 
 If you like to do a local installation, it best way right now is to do the following:
 
