@@ -1,0 +1,4 @@
+.settings/*
+web/config.local.php
+.project
+.buildpath
