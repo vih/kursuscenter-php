@@ -1,6 +1,8 @@
 [kursuscenter.vih.dk](http://kursuscenter.vih.dk/)
 ==
 
+###This code is deprecated. See the new [Drupal 7 site instead](http://github.com/vih/kursuscenter.vih.dk-deploy)###
+
 PHP source code for [Vejle Idrætshøjskole's kursuscenter](http://kursuscenter.vih.dk)
 
 Installation
